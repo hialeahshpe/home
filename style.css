@@ -43,7 +43,7 @@ body { background: rgba(0, 20, 20, 1.2);}
     flex-basis: 100%;
     /*background-color: rgba(53, 35, 35, 0.38);*/
     background-color: rgba(255, 255, 255, 1);
-    height: 1800px;
+    height: 2000px;
 }
 #first-card {
     background-color: rgb(255, 255, 255);
